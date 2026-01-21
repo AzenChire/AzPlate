@@ -1,6 +1,6 @@
 <img width="1920" height="1080" alt="AzPlate - Header" src="https://github.com/user-attachments/assets/f899c00e-c7b4-42af-9828-2aec7bfe01d0" />
 
-# JumpPad
+# AzPlate
 
 Step on a pressure plate to get launched forward and upward! 🚀
 
@@ -60,4 +60,4 @@ Join the support Discord to report bugs, suggest features, or get help:
 
 ---
 
-Enjoy using JumpPad! ✨
+Enjoy using AzPlate! ✨
