@@ -1,4 +1,4 @@
-![JumpPad - Header V2](https://github.com/user-attachments/assets/9c760155-73b6-4744-be6d-870dba38d4fe)
+<img width="1920" height="1080" alt="AzPlate - Header" src="https://github.com/user-attachments/assets/f899c00e-c7b4-42af-9828-2aec7bfe01d0" />
 
 # JumpPad
 
